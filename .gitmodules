@@ -1,0 +1,3 @@
+[submodule "play-jongo"]
+	path = play-jongo
+	url = ./play-jongo
